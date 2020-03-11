@@ -14,5 +14,5 @@ if [ "$?" -ne 0 ]; then
 	exit 1
 fi
 
-echo "ov5645 enabled, please reboot"
+echo "fastrpc enabled, please reboot"
 sync
